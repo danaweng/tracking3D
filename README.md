@@ -1,5 +1,5 @@
 # Tracking3D-iOS
-This App realized the coarse real-time tracking in three-dimensional space.
+This App realized the coarse real-time tracking in three-dimensional space.  
 
 
 #### OpenCV tracking
